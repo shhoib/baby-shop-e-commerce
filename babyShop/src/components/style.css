@@ -1,0 +1,186 @@
+
+/* .listingimages{
+    max-height: 250px;
+    max-width: 240px;
+} */
+
+.img-fluid{
+    width: 300px;
+    height: 350px;
+    /* margin-left: 100px; */
+}
+.viewimg{
+    /* background-color: aqua; */
+    height: 100vh;
+    width: 100%;
+    
+}
+.createnow:hover{
+    color: blue;
+    text-decoration: underline  ;
+    cursor: pointer;
+    
+}
+.createnow{
+    display: inline;
+
+}
+.adminpg{
+    min-width: 18%;
+    height: 100vh;
+    background-color:#333330;
+    font-family: Muli, sans-serif;
+    font-weight: 600;
+
+}
+.adminli{
+    font-family: Muli, sans-serif;
+    font-weight: 400;
+    list-style-type: none;
+}
+.srchbar{
+    max-width: 50%;
+}
+.rightside{
+    background-color: lightslategray;
+   width: 100% ;
+   height: 100vh;
+}
+
+.srchbtn{
+    height: 38px;
+}
+/* .signinform{
+    max-width: 50%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+} */
+.additem{
+    width: 100%;
+}
+.link {
+    color: #333330;
+    text-decoration: none;
+  }
+.link:hover {
+     color: #00F
+  }
+  .mainlist{
+    background-color: aqua  ;
+    max-height: 100px;
+    max-width: 100%;
+  }
+  .listingimg{
+    max-height: 90px;
+  }
+  .edititems{
+    width: 100%;
+  }
+  .proimg{
+    max-width:100px ;
+    max-height: 100px;
+  }
+  .promain{
+    background-color: lightslategray;
+  }
+
+
+
+
+
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 50px 0;
+  }
+  
+  .footer h5 {
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  .footer ul.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  .footer ul li a {
+    color: #fff;
+    text-decoration: none;
+    opacity: 0.7;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .footer ul li a:hover {
+    opacity: 1;
+  }
+  
+  .footer hr.bg-light {
+    border-top: 1px solid #fff;
+  }
+  
+  .footer p {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+  
+  .footer ul.list-inline li a {
+    color: #fff;
+    text-decoration: none;
+    opacity: 0.7;
+    transition: opacity
+  }
+  
+  .addtocartbtn{
+    margin-left: 40%;
+  }
+  .navbarheight{
+    height: 50%;
+  }
+  .addotheruser{
+    margin-left: 40%;
+    font-size: 230%;
+  }
+  .addmoreusers{
+    display: flex;
+
+  }
+  .addfromgoogle{
+    font-size: 230%;
+    margin-left: 5%;
+  }
+  .otheruser{
+    background-image: url('./src/images/hello.jpg');
+    background-size: cover;
+
+  }
+  .emptycart{
+    width: 100%;
+    height: 100vh;
+   background-color: lightgray;
+  }
+  .carticon{
+    font-size: 450%;
+  }
+
+
+  .alert {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .checkoutbtn{
+    height: 50px;
+    width: 8%;
+    margin-left: 89%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+  }
+  .gtotal{
+    margin-left: 82%;
+    margin-top: 2%;
+
+  }
